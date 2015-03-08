@@ -1,4 +1,4 @@
-=== PRyC WP: Add support for admin.css ===
+=== PRyC WooCommerce: Edit all orders ===
 Contributors: PRyCpl
 Tags: WordPress, WooCommerce, Order, Orders, Edit
 Requires at least: 3.0.1
